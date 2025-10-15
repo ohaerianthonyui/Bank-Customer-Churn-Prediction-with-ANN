@@ -96,7 +96,7 @@ The model shows promising performance, especially in detecting churners (higher 
 1. Clone this repository
 
    ```
-   git clone https://github.com/yourusername/customer-churn-prediction.git
+   git clone https://github.com/ohaerianthonyui/Bank-Customer-Churn-Prediction-with-ANN.git
    ```
 2. Install dependencies
 
